@@ -1,4 +1,4 @@
-# belajar-kolaborasi
-**1** <br>
-**2** <br>
-**3** <br>
+# Belajar Kolaborasi
+**Bersama:**
+* Fauzan Galang Raifan
+* Ahmad Rifqi Al-Anshori
